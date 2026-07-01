@@ -1,0 +1,13 @@
+{
+  "name": "devsetup",
+  "version": "1.0.0",
+  "description": "Configuration de l'environnement de développement",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
